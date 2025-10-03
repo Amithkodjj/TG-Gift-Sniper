@@ -70,8 +70,8 @@ TEXTS = {
                     "Withdraw ALL stars without fees\n"
                     "if you haven't bought gifts yet!\n"
                     "Perfect for testing safely.\n\n"
-                    "🔗 <b>Community:</b> @Snipershot69\n"
-                    "💻 <b>Developer:</b> @TheSniper051",
+                    "🔗 <b>Community:</b> @GrLogic\n"
+                    "💻 <b>Developer:</b> @GrLogic",
         
         "donate_to_dev_button": "💝 Donate to Dev (★100)",
         "contact_dev_button": "💬 Contact Developer",
