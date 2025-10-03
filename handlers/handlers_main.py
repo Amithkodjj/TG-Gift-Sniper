@@ -99,7 +99,7 @@ def register_main_handlers(dp, bot, version):
         contact_text = (
             "💬 <b>Contact Developer</b>\n\n"
             "📲 Click the link below to start a chat with the developer:\n\n"
-            "👨‍💻 @TheSniper051\n\n"
+            "👨‍💻 @GrLogic\n\n"
             "💡 <b>Available for:</b>\n"
             "• Technical support\n"
             "• Feature requests\n"
@@ -108,7 +108,7 @@ def register_main_handlers(dp, bot, version):
         )
         
         contact_keyboard = InlineKeyboardMarkup(inline_keyboard=[
-            [InlineKeyboardButton(text="💬 Open Chat", url="https://t.me/TheSniper051")],
+            [InlineKeyboardButton(text="💬 Open Chat", url="https://t.me/GrLogic")],
             [InlineKeyboardButton(text="⬅️ Back", callback_data="show_help")]
         ])
         
